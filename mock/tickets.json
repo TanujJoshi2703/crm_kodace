@@ -1,0 +1,37 @@
+[
+    {
+        "id": "t1",
+        "subject": "Login Issue",
+        "priority": "High",
+        "status": "Open",
+        "requester": "John Doe"
+    },
+    {
+        "id": "t2",
+        "subject": "Billing Question",
+        "priority": "Medium",
+        "status": "Closed",
+        "requester": "Jane Smith"
+    },
+    {
+        "id": "t3",
+        "subject": "Feature Request",
+        "priority": "Low",
+        "status": "Open",
+        "requester": "Peter Gibbons"
+    },
+    {
+        "id": "t4",
+        "subject": "Bug in Report",
+        "priority": "High",
+        "status": "In Progress",
+        "requester": "Alice Wesker"
+    },
+    {
+        "id": "t5",
+        "subject": "Account Access",
+        "priority": "Critical",
+        "status": "Open",
+        "requester": "Tony Stark"
+    }
+]

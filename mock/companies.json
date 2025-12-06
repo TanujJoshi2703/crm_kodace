@@ -1,0 +1,32 @@
+[
+    {
+        "id": "c1",
+        "name": "Acme Corp",
+        "industry": "Manufacturing",
+        "status": "Active"
+    },
+    {
+        "id": "c2",
+        "name": "Globex Corporation",
+        "industry": "Logistics",
+        "status": "Active"
+    },
+    {
+        "id": "c3",
+        "name": "Soylent Corp",
+        "industry": "Food",
+        "status": "Churned"
+    },
+    {
+        "id": "c4",
+        "name": "Initech",
+        "industry": "Software",
+        "status": "Active"
+    },
+    {
+        "id": "c5",
+        "name": "Umbrella Corp",
+        "industry": "Pharmaceuticals",
+        "status": "Active"
+    }
+]

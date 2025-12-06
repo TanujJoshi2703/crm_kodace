@@ -1,0 +1,19 @@
+{
+  "metrics": {
+    "pipelineValue": 1250000,
+    "openTickets": 12,
+    "activeProjects": 8
+  },
+  "miniKanban": {
+    "stages": [
+      { "name": "Prospect", "count": 5 },
+      { "name": "Proposal", "count": 3 },
+      { "name": "Won", "count": 12 }
+    ],
+    "topDeals": [
+      { "id": "d1", "title": "Acme Corp Renewal", "value": 50000, "stage": "Proposal" },
+      { "id": "d2", "title": "Globex Enterprise License", "value": 120000, "stage": "Negotiation" },
+      { "id": "d3", "title": "Soylent Corp Pilot", "value": 15000, "stage": "Prospect" }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+    "stages": [
+        {
+            "id": "s1",
+            "name": "Prospect"
+        },
+        {
+            "id": "s2",
+            "name": "Proposal"
+        },
+        {
+            "id": "s3",
+            "name": "Negotiation"
+        },
+        {
+            "id": "s4",
+            "name": "Won"
+        },
+        {
+            "id": "s5",
+            "name": "Lost"
+        }
+    ],
+    "deals": [
+        {
+            "id": "d1",
+            "title": "Acme Corp Renewal",
+            "value": 50000,
+            "company": "Acme Corp",
+            "stageId": "s2",
+            "owner": "Alice",
+            "dueDate": "2025-12-15"
+        },
+        {
+            "id": "d2",
+            "title": "Globex Enterprise License",
+            "value": 120000,
+            "company": "Globex",
+            "stageId": "s3",
+            "owner": "Bob",
+            "dueDate": "2025-12-20"
+        },
+        {
+            "id": "d3",
+            "title": "Soylent Corp Pilot",
+            "value": 15000,
+            "company": "Soylent Corp",
+            "stageId": "s1",
+            "owner": "Alice",
+            "dueDate": "2025-12-10"
+        },
+        {
+            "id": "d4",
+            "title": "Initech Upgrade",
+            "value": 35000,
+            "company": "Initech",
+            "stageId": "s1",
+            "owner": "Charlie",
+            "dueDate": "2025-12-18"
+        },
+        {
+            "id": "d5",
+            "title": "Umbrella Corp Security",
+            "value": 250000,
+            "company": "Umbrella Corp",
+            "stageId": "s2",
+            "owner": "Bob",
+            "dueDate": "2025-12-25"
+        },
+        {
+            "id": "d6",
+            "title": "Stark Ind Contract",
+            "value": 500000,
+            "company": "Stark Industries",
+            "stageId": "s4",
+            "owner": "Alice",
+            "dueDate": "2025-11-30"
+        },
+        {
+            "id": "d7",
+            "title": "Wayne Ent Consultation",
+            "value": 75000,
+            "company": "Wayne Enterprises",
+            "stageId": "s5",
+            "owner": "Charlie",
+            "dueDate": "2025-11-15"
+        },
+        {
+            "id": "d8",
+            "title": "Cyberdyne AI Project",
+            "value": 90000,
+            "company": "Cyberdyne Systems",
+            "stageId": "s3",
+            "owner": "Bob",
+            "dueDate": "2026-01-05"
+        }
+    ]
+}

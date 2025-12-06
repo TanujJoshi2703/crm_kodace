@@ -1,0 +1,37 @@
+[
+    {
+        "id": "ct1",
+        "name": "John Doe",
+        "email": "john@acme.com",
+        "companyId": "c1",
+        "role": "CEO"
+    },
+    {
+        "id": "ct2",
+        "name": "Jane Smith",
+        "email": "jane@globex.com",
+        "companyId": "c2",
+        "role": "CTO"
+    },
+    {
+        "id": "ct3",
+        "name": "Peter Gibbons",
+        "email": "peter@initech.com",
+        "companyId": "c4",
+        "role": "Developer"
+    },
+    {
+        "id": "ct4",
+        "name": "Alice Wesker",
+        "email": "alice@umbrella.com",
+        "companyId": "c5",
+        "role": "Researcher"
+    },
+    {
+        "id": "ct5",
+        "name": "Tony Stark",
+        "email": "tony@stark.com",
+        "companyId": "c6",
+        "role": "Owner"
+    }
+]

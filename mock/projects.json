@@ -1,0 +1,30 @@
+[
+    {
+        "id": "p1",
+        "name": "Website Redesign",
+        "companyId": "c1",
+        "status": "In Progress",
+        "progress": 60
+    },
+    {
+        "id": "p2",
+        "name": "Mobile App Launch",
+        "companyId": "c2",
+        "status": "Planning",
+        "progress": 10
+    },
+    {
+        "id": "p3",
+        "name": "Cloud Migration",
+        "companyId": "c4",
+        "status": "Completed",
+        "progress": 100
+    },
+    {
+        "id": "p4",
+        "name": "Security Audit",
+        "companyId": "c5",
+        "status": "In Progress",
+        "progress": 45
+    }
+]
